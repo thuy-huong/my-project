@@ -5,7 +5,7 @@ int main(){
 	float b=6;
 	printf("hien thi so a %d \n",a);
 	printf("hien thi so b %.1f \n",b);
-	printf("Hien thi ca a va b: %d và %.2f",a,b);
+	printf("Hien thi ca a va b: %d vï¿½ %.2f",a,b);
 	int c;
 	printf("\nNhap so c:");
 	scanf("%d",&c);
