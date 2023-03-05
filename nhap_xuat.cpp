@@ -10,4 +10,5 @@ int main(){
 	printf("\nNhap so c:");
 	scanf("%d",&c);
 	printf("Hien thi so c %d",c);
+	printf("Hien thi so c %d",c);
 }
